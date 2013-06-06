@@ -5,7 +5,7 @@ Generate Lorem Ipsum paragraphs based on placeholders.
 
 ## What is is
 
-Instead of copy pasting dummy text, you can just write a placeholder with the number of desired 'Lorem Ipsum' paragraphs,
+Instead of copy pasting dummy text, you can just write a placeholder with the desired number of 'Lorem Ipsum' paragraphs,
 and they will be inserted in your elements. Just that.
 
 ## How to use
@@ -27,7 +27,7 @@ So if you want 3 paragraphs, just write:
 * 2) Put your placeholders in your document.
 * 3) Rejoice!
 
-```js
+```html
 <script src="ipsify.js"></script>
 <script>var foo = new Ipsify();</script>
 ```
